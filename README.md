@@ -6,13 +6,21 @@ The NBA has experienced an offensive surge over the course of the past decade, a
 
 ## Specifics
 The specific statistics I used are laid out below.
+
 -Offensive Rating
+
 -Defensive Rating
+
 -Assist Rate
+
 -Steal Rate
+
 -Defensive Rebound Rate
+
 -True Shooting %
+
 -Three-point Rate
+
 -Free Throw Rate
 
 ## Statement
