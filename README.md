@@ -23,5 +23,7 @@ The specific statistics I used are laid out below.
 
 -Free Throw Rate
 
+Project completed in January 2024.
+
 ## Statement
 This project is my own original work.
